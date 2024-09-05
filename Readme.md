@@ -27,3 +27,11 @@ Response time is a crutical factor in customer satisfaction. This KPI should dis
 * 5. Total Calls by Sentiment (Column Chart): Utilize a column chart to illustrate the distribution of calls by sentiment (Positive, negative, neutral)
 * 6. Total Calls by call center (Bar Chart):
 Create a bar chart that presents the total number of calls handled by each call center or department.
+
+
+# SCREENSHOTS
+**HOME**
+![alt text](image.png)
+
+**GRID**
+![alt text](image-1.png)
